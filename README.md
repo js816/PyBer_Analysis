@@ -2,7 +2,7 @@
 
 ## Overview of Project
 
-The purpose of this data project is to analyze various factors impacting performance of PyBer.  In an initial round of analysis, we looked at a variety of factors to gain a baseline understanding what influences revenue and volume.  In a further analysis, the data were analyzed to understand how the city type (urban, suburban, or rural) impacts capacity and revenue.  Data were examined from the period of January 1, 2019 through April 29, 2019.
+The purpose of this data project is to analyze various factors impacting performance of PyBer ride sharing service.  In an initial round of analysis, we looked at a variety of factors to gain a baseline understanding of what influences revenue and volume.  In a further analysis, the data were analyzed to understand how the city type (urban, suburban, or rural) impacts capacity and revenue.  Data were examined from the period of January 1, 2019 through April 29, 2019.
 
 With greater insight into differences between the city types, decision makers will be able to make more well-informed future plans that align with the vision of PyBer.
 
@@ -18,7 +18,7 @@ With this in mind, as expected, there were many more urban rides in the data.  H
 
 In the urban cities, it’s important to note that there are more drivers than rides, so during this period, the average urban driver had 0.67 rides.  This metric was not much higher for suburban (1.3) or rural (1.6).  It appears that the there is a significant imbalance between the number of rides and the number of drivers.
 
-During this period, 63% of the total fares was in urban cities, while 30% was in suburban areas, and 7% was in rural cities.
+When looking at total fare dollars during this period, 63% of the total fare dollars was in urban cities, while 30% was in suburban areas, and 7% was in rural cities.
 
 ![Overall_Revenue_Pie_Chart](https://user-images.githubusercontent.com/82730954/120115641-3c662580-c14a-11eb-9e75-70e2e193b6d0.PNG)
 
@@ -34,7 +34,7 @@ The week over week data show that, while there were some variances throughout th
 
 Based upon the data analyzed, there are a number of recommendations to improve the disparity between the various types of cities and enhance overall success.
 
-- First, it is recommended that there be a better balance between the number of drivers and rides.  Across all cities, the average driver had 0.8 rides over a nearly four-month period.  Ideally, it is recommended that the number of rides be increased in deliberate ways while ensuring that driver capacity remains at an acceptable level.  This has the potential of greatly increasing company revenue and average fare for each driver which would be a win-win.  This focus should be strongest on urban markets.
+- First, it is recommended that there be a better balance between the number of drivers and rides.  Across all cities, the average driver had 0.8 rides over a nearly four-month period.  Ideally, it is recommended that the number of rides be increased in deliberate ways while ensuring that driver capacity remains at an acceptable level.  This has the potential of greatly increasing company revenue and average fare for each driver which would be a win-win for the company, our drivers, and our customers.  This focus should be strongest on urban markets.
 
 - Secondly, and in using a cautious approach based upon the success of the first recommendation, it is suggested that the number of drivers be reduced.  This should be done in conjunction with a data project examining driver quality.  This can help us ensure that we retain the highest quality drivers while reducing those drivers who provide lower quality experiences for our customers.  Again, the strongest focus here should be on the urban markets.
 
